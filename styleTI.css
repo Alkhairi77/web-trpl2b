@@ -1,0 +1,38 @@
+* {
+	box-sizing:border-box;
+	}
+body {
+	font-family: sans-serif;}
+.header {
+	background-color:#964b00;
+	color:white;
+	padding:20px;
+	text-align:center;
+	height:150px;
+	
+	}
+.sidebar {
+	background-color:#778899;
+	height:350px;
+	width:25%;
+	float: left;
+	padding-left:20px;
+	}
+
+.content {
+	height:350px;
+	width:75%;
+	float: left;
+	padding-left:20px;
+	text-align:justify;}
+	
+.footer {
+	background-color:#964b00;
+	color:white;
+	padding:1px;
+	text-align:center;
+	height:50px;
+	clear:both;
+	}
+td {color:white;}
+	a {color:white}
